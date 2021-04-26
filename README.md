@@ -1,4 +1,3 @@
 # StructurideDate
 
-
-Problemele facute la materia: Structuri de Date, An 1 Sem 2 - AC Iasi
+Problemele de la materia: Structuri de Date - AC Iasi, An 1, Sem 2
